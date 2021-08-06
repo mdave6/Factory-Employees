@@ -1,0 +1,13 @@
+C:\Users\david\source\repos\Factory Employees\bin\Debug\netcoreapp3.1\Factory Employees.exe
+C:\Users\david\source\repos\Factory Employees\bin\Debug\netcoreapp3.1\Factory Employees.deps.json
+C:\Users\david\source\repos\Factory Employees\bin\Debug\netcoreapp3.1\Factory Employees.runtimeconfig.json
+C:\Users\david\source\repos\Factory Employees\bin\Debug\netcoreapp3.1\Factory Employees.runtimeconfig.dev.json
+C:\Users\david\source\repos\Factory Employees\bin\Debug\netcoreapp3.1\Factory Employees.dll
+C:\Users\david\source\repos\Factory Employees\bin\Debug\netcoreapp3.1\Factory Employees.pdb
+C:\Users\david\source\repos\Factory Employees\obj\Debug\netcoreapp3.1\Factory Employees.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\Factory Employees\obj\Debug\netcoreapp3.1\Factory Employees.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\Factory Employees\obj\Debug\netcoreapp3.1\Factory Employees.AssemblyInfo.cs
+C:\Users\david\source\repos\Factory Employees\obj\Debug\netcoreapp3.1\Factory Employees.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\Factory Employees\obj\Debug\netcoreapp3.1\Factory Employees.dll
+C:\Users\david\source\repos\Factory Employees\obj\Debug\netcoreapp3.1\Factory Employees.pdb
+C:\Users\david\source\repos\Factory Employees\obj\Debug\netcoreapp3.1\Factory Employees.genruntimeconfig.cache
